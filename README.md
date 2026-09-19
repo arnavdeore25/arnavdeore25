@@ -1,22 +1,32 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Arnav%20Deore&fontSize=42&fontAlignY=35&desc=MCA%20Student%20%7C%20Software%20Developer%20%7C%20GenAI%20Enthusiast&descAlignY=58&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:111827,100:0D1117&height=220&section=header&text=ARNAV%20DEORE&fontSize=52&fontColor=58A6FF&fontAlignY=42&desc=MCA%20%7C%20SOFTWARE%20DEVELOPER%20%7C%20GENAI%20%7C%20SAP&descAlignY=62&descSize=17&animation=fadeIn" width="100%"/>
 
 <br>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=21&pause=1000&center=true&vCenter=true&width=750&lines=Software+Developer+%F0%9F%92%BB;GenAI+%26+RAG+Enthusiast+%F0%9F%A4%96;Exploring+SAP+BTP+%26+SAP+Build+%E2%98%81%EF%B8%8F;Learning+ABAP+%26+Enterprise+Development+%E2%9A%A1%EF%B8%8F;Building+Ideas+Into+Practical+Solutions+%F0%9F%9A%80" alt="Typing SVG"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=45&lines=%24+initializing+arnav.dev...;%24+loading+software+engineering+skills...;%24+loading+GenAI+%7C+RAG+%7C+LLMs...;%24+loading+SAP+BTP+%7C+SAP+Build+%7C+ABAP...;%24+system+ready+%3A%3A+let%27s+build+something+useful." alt="Terminal Animation"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00D26A?style=flat-square&labelColor=161B22"/>
+&nbsp;
+<img src="https://img.shields.io/badge/FOCUS-GENAI%20%2B%20SOFTWARE-58A6FF?style=flat-square&labelColor=161B22"/>
+&nbsp;
+<img src="https://img.shields.io/badge/EXPLORING-SAP%20BTP-F0AB00?style=flat-square&labelColor=161B22"/>
 
 </div>
 
-# Hi, I'm Arnav Deore 👋
+---
+
+# 👋 Hi, I'm Arnav Deore
 
 ### MCA Student | Software Developer | GenAI & AI Enthusiast
 
 I'm currently pursuing my **Master of Computer Applications (MCA)** at **CHRIST (Deemed to be) University, Bengaluru**. I enjoy building practical software solutions across **web development, backend systems, databases, Generative AI, and RAG-based applications**.
 
 I'm particularly interested in understanding how AI can be combined with software engineering to build useful, reliable, and user-focused applications.
+
+---
 
 ---
 
@@ -134,8 +144,10 @@ I'm always open to connecting, collaborating on projects, discussing technology,
 
 <div align="center">
 
-### 🚀 Let's Build Something Amazing Together!
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&height=40&lines=%24+git+commit+-m+%22keep+learning%22;%24+git+push+origin+main;%24+echo+%22Building.+Learning.+Experimenting.+Repeating.%22" alt="Terminal Footer Animation"/>
 
-*Building. Learning. Experimenting. Repeating.*
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0D1117,50:161B22,100:0D1117&animation=fadeIn" width="100%"/>
 
 </div>
