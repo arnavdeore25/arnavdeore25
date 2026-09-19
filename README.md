@@ -100,17 +100,22 @@ I'm particularly interested in understanding how AI can be combined with softwar
 ![AWS](https://img.shields.io/badge/AWS%20Fundamentals-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 ---
-
 ## 🌱 Currently Exploring
 
-Generative AI          ███████████████████░░
-RAG & LLMs             ██████████████████░░░
-Backend Development    █████████████████░░░░
-Full-Stack Web         ████████████████░░░░░
-SAP BTP & SAP Build    ███████████████░░░░░
-ABAP Development       ███████████░░░░░░░░░
-Cloud Fundamentals     ████████████░░░░░░░░░
-DSA & Problem Solving  ███████████████░░░░░
+<div align="center">
+
+| Area | Progress |
+|:---|:---:|
+| 🤖 **Generative AI** | ![90%](https://img.shields.io/badge/██████████████████░░-90%25-8A2BE2?style=flat-square) |
+| 🔎 **RAG & LLMs** | ![85%](https://img.shields.io/badge/█████████████████░░░-85%25-58A6FF?style=flat-square) |
+| 🐍 **Backend Development** | ![80%](https://img.shields.io/badge/████████████████░░░░-80%25-00D26A?style=flat-square) |
+| 🌐 **Full-Stack Web** | ![75%](https://img.shields.io/badge/███████████████░░░░░-75%25-FF6B6B?style=flat-square) |
+| ☁️ **SAP BTP & SAP Build** | ![70%](https://img.shields.io/badge/██████████████░░░░░░-70%25-00AEEF?style=flat-square) |
+| 💻 **ABAP Development** | ![60%](https://img.shields.io/badge/████████████░░░░░░░░-60%25-F0AB00?style=flat-square) |
+| ☁️ **Cloud Fundamentals** | ![65%](https://img.shields.io/badge/█████████████░░░░░░░-65%25-FF9D3D?style=flat-square) |
+| 🧠 **DSA & Problem Solving** | ![75%](https://img.shields.io/badge/███████████████░░░░░-75%25-EC4899?style=flat-square) |
+
+</div>
 
 ---
 
