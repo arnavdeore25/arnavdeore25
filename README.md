@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hi, I'm Arnav Deore 👋
 
 ### MCA Student | Software Developer | GenAI & AI Enthusiast
@@ -10,3 +11,6 @@ I'm particularly interested in understanding how AI can be combined with softwar
 <p align="center">
   <i>Building. Learning. Experimenting. Repeating. 🚀</i>
 </p>
+=======
+
+>>>>>>> 3a1d0ca5d86f65bdfa2b0c7c2ce2771b33d486c9
