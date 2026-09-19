@@ -5,7 +5,7 @@
 <br>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=21&pause=1000&center=true&vCenter=true&width=750&lines=Software+Developer+%F0%9F%92%BB;GenAI+%26+RAG+Enthusiast+%F0%9F%A4%96;Exploring+SAP+BTP+%26+SAP+Build+%E2%98%81%EF%B8%8F;Learning+ABAP+%26+Enterprise+Development+%E2%9A%99%EF%B8%8F;Building+Ideas+Into+Practical+Solutions+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=21&pause=1000&center=true&vCenter=true&width=750&lines=Software+Developer+%F0%9F%92%BB;GenAI+%26+RAG+Enthusiast+%F0%9F%A4%96;Exploring+SAP+BTP+%26+SAP+Build+%E2%98%81%EF%B8%8F;Learning+ABAP+%26+Enterprise+Development+%E2%9A%A1%EF%B8%8F;Building+Ideas+Into+Practical+Solutions+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
 
 </div>
@@ -95,29 +95,9 @@ I'm particularly interested in understanding how AI can be combined with softwar
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=arnavdeore25&show_icons=true&theme=github_dark&hide_border=true" alt="Arnav's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=arnavdeore25&show_icons=true&theme=github_dark&hide_border=true" alt="Arnav's GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavdeore25&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=arnavdeore25&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arnavdeore25&theme=github-compact&hide_border=true&area=true" width="95%" alt="GitHub Activity Graph"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavdeore25&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
 
 </div>
 
@@ -125,7 +105,6 @@ I'm particularly interested in understanding how AI can be combined with softwar
 
 ## 🌱 Currently Exploring
 
-```text
 Generative AI          ███████████████████░░
 RAG & LLMs             ██████████████████░░░
 Backend Development    █████████████████░░░░
