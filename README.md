@@ -101,18 +101,6 @@ I'm particularly interested in understanding how AI can be combined with softwar
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=arnavdeore25&show_icons=true&theme=github_dark&hide_border=true" alt="Arnav's GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavdeore25&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
-
-</div>
-
----
-
 ## 🌱 Currently Exploring
 
 Generative AI          ███████████████████░░
