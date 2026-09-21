@@ -96,18 +96,6 @@ I'm pursuing my **Master of Computer Applications (MCA)** at **CHRIST (Deemed to
 
 ---
 
-## 📌 Featured Projects
-
-> Swap these placeholders for your actual repos — pinning 3–4 strong projects here does more for recruiters than any badge.
-
-| Project | Description | Tech |
-|---|---|---|
-| **[Project Name](https://github.com/arnavdeore25)** | One-line description of what it does and the problem it solves. | Python · Flask · LangChain |
-| **[Project Name](https://github.com/arnavdeore25)** | One-line description of what it does and the problem it solves. | React · Tailwind · REST API |
-| **[Project Name](https://github.com/arnavdeore25)** | One-line description of what it does and the problem it solves. | SAP BTP · ABAP |
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -153,15 +141,6 @@ Contribution snake — requires a one-time GitHub Actions setup:
 <img src="https://raw.githubusercontent.com/arnavdeore25/arnavdeore25/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 
 </div>
-
----
-
-## 🏆 Certifications
-
-> Add your certificates here as they come — even 2–3 relevant ones (SAP, AWS, or a GenAI course) strengthen this profile a lot.
-
-- 🔹 *Certification Name* — Issuer, Year
-- 🔹 *Certification Name* — Issuer, Year
 
 ---
 
