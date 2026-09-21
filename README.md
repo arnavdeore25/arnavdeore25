@@ -19,6 +19,11 @@
 
 I'm pursuing my **Master of Computer Applications (MCA)** at **CHRIST (Deemed to be) University, Bengaluru**. I enjoy building practical software solutions across **web development, backend systems, databases, Generative AI, and RAG-based applications** — and I'm especially interested in how AI can be combined with solid software engineering to build reliable, user-focused products.
 
+🔭 **Currently working on:** a RAG-based application exploring LangChain + LLMs
+🌱 **Currently learning:** SAP BTP, ABAP, and cloud fundamentals
+👀 **Open to:** internships / full-time roles in Software Development & GenAI Engineering
+💬 **Ask me about:** Python, Flask, RAG pipelines, or SAP Build
+
 ---
 
 ## 👨‍💻 About Me
@@ -40,54 +45,35 @@ I'm pursuing my **Master of Computer Applications (MCA)** at **CHRIST (Deemed to
 
 ## 🛠️ Tech Stack
 
-**Languages**
+**Primary stack**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**Backend & APIs**
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge)
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-**AI / GenAI**
-
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge)
-![GenAI](https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge)
-
-**SAP & Enterprise**
-
 ![SAP BTP](https://img.shields.io/badge/SAP%20BTP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![SAP Build](https://img.shields.io/badge/SAP%20Build-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![ABAP](https://img.shields.io/badge/ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
-**Tools & Platforms**
+**Also familiar with**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS%20Fundamentals-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![SAP Build](https://img.shields.io/badge/SAP%20Build-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -110,6 +96,18 @@ I'm pursuing my **Master of Computer Applications (MCA)** at **CHRIST (Deemed to
 
 ---
 
+## 📌 Featured Projects
+
+> Swap these placeholders for your actual repos — pinning 3–4 strong projects here does more for recruiters than any badge.
+
+| Project | Description | Tech |
+|---|---|---|
+| **[Project Name](https://github.com/arnavdeore25)** | One-line description of what it does and the problem it solves. | Python · Flask · LangChain |
+| **[Project Name](https://github.com/arnavdeore25)** | One-line description of what it does and the problem it solves. | React · Tailwind · REST API |
+| **[Project Name](https://github.com/arnavdeore25)** | One-line description of what it does and the problem it solves. | SAP BTP · ABAP |
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -120,6 +118,50 @@ I'm pursuing my **Master of Computer Applications (MCA)** at **CHRIST (Deemed to
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavdeore25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF"/>
 
 </div>
+
+<!--
+Contribution snake — requires a one-time GitHub Actions setup:
+1. Add this workflow at .github/workflows/snake.yml in your PROFILE repo (arnavdeore25/arnavdeore25):
+
+   name: generate snake
+   on:
+     schedule:
+       - cron: "0 */6 * * *"
+     workflow_dispatch: {}
+     push:
+       branches: [ main ]
+   jobs:
+     generate:
+       runs-on: ubuntu-latest
+       steps:
+         - uses: Platane/snk/svg-only@v3
+           with:
+             github_user_name: arnavdeore25
+             outputs: dist/github-contribution-grid-snake-dark.svg
+         - uses: crazy-max/ghaction-github-pages@v4
+           with:
+             target_branch: output
+             build_dir: dist
+           env:
+             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+2. Once the workflow runs once, the image below will render automatically.
+-->
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/arnavdeore25/arnavdeore25/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+
+</div>
+
+---
+
+## 🏆 Certifications
+
+> Add your certificates here as they come — even 2–3 relevant ones (SAP, AWS, or a GenAI course) strengthen this profile a lot.
+
+- 🔹 *Certification Name* — Issuer, Year
+- 🔹 *Certification Name* — Issuer, Year
 
 ---
 
