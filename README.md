@@ -110,18 +110,6 @@ I'm pursuing my **Master of Computer Applications (MCA)** at **CHRIST (Deemed to
 
 ---
 
-## 📌 Featured Projects
-
-> Swap these placeholders for your actual repos — pinning 3–4 strong projects here does more for recruiters than any badge.
-
-| Project | Description | Tech |
-|---|---|---|
-| **[Project Name](https://github.com/arnavdeore25)** | One-line description of what it does and the problem it solves. | Python · Flask · LangChain |
-| **[Project Name](https://github.com/arnavdeore25)** | One-line description of what it does and the problem it solves. | React · Tailwind · REST API |
-| **[Project Name](https://github.com/arnavdeore25)** | One-line description of what it does and the problem it solves. | SAP BTP · ABAP |
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
