@@ -107,12 +107,6 @@ I'm pursuing my **Master of Computer Applications (MCA)** at **CHRIST (Deemed to
 
 </div>
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/arnavdeore25/arnavdeore25/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-
-</div>
-
 ---
 
 ## 📫 Connect With Me
