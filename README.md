@@ -107,35 +107,6 @@ I'm pursuing my **Master of Computer Applications (MCA)** at **CHRIST (Deemed to
 
 </div>
 
-<!--
-Contribution snake — requires a one-time GitHub Actions setup:
-1. Add this workflow at .github/workflows/snake.yml in your PROFILE repo (arnavdeore25/arnavdeore25):
-
-   name: generate snake
-   on:
-     schedule:
-       - cron: "0 */6 * * *"
-     workflow_dispatch: {}
-     push:
-       branches: [ main ]
-   jobs:
-     generate:
-       runs-on: ubuntu-latest
-       steps:
-         - uses: Platane/snk/svg-only@v3
-           with:
-             github_user_name: arnavdeore25
-             outputs: dist/github-contribution-grid-snake-dark.svg
-         - uses: crazy-max/ghaction-github-pages@v4
-           with:
-             target_branch: output
-             build_dir: dist
-           env:
-             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-2. Once the workflow runs once, the image below will render automatically.
--->
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/arnavdeore25/arnavdeore25/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
