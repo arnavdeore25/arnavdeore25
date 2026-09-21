@@ -101,7 +101,9 @@ I'm pursuing my **Master of Computer Applications (MCA)** at **CHRIST (Deemed to
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=arnavdeore25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=arnavdeore25&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=F0AB00"/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavdeore25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF"/>
 
 </div>
 
