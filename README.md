@@ -96,17 +96,6 @@ I'm pursuing my **Master of Computer Applications (MCA)** at **CHRIST (Deemed to
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=arnavdeore25&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=F0AB00"/>
-
-
-</div>
-
----
-
 ## 📫 Connect With Me
 
 I'm always open to collaborating on projects, discussing tech, or just talking **AI, software development, and SAP**.
