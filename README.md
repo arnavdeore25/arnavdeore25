@@ -54,7 +54,6 @@ I'm pursuing my **Master of Computer Applications (MCA)** at **CHRIST (Deemed to
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge)
 ![SAP BTP](https://img.shields.io/badge/SAP%20BTP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![ABAP](https://img.shields.io/badge/ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
 **Also familiar with**
 
@@ -90,7 +89,6 @@ I'm pursuing my **Master of Computer Applications (MCA)** at **CHRIST (Deemed to
 | 🧠 DSA & Problem Solving | ![75%](https://img.shields.io/badge/-75%25-EC4899?style=flat-square) |
 | ☁️ SAP BTP & SAP Build | ![70%](https://img.shields.io/badge/-70%25-00AEEF?style=flat-square) |
 | ☁️ Cloud Fundamentals | ![65%](https://img.shields.io/badge/-65%25-FF9D3D?style=flat-square) |
-| 💻 ABAP Development | ![60%](https://img.shields.io/badge/-60%25-F0AB00?style=flat-square) |
 
 </div>
 
