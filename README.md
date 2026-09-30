@@ -96,7 +96,7 @@ I'm pursuing my **Master of Computer Applications (MCA)** at **CHRIST (Deemed to
 
 ## 📫 Connect With Me
 
-I'm always open to collaborating on projects, discussing tech, or just talking **AI, software development, and SAP**.
+I'm always open to collaborating on projects, discussing tech, or just talking **AI, LLMs, software development, and SAP**.
 
 <p align="center">
 <a href="https://www.linkedin.com/in/arnav-deore/"><img src="https://img.shields.io/badge/LinkedIn-Arnav%20Deore-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
