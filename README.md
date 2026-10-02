@@ -106,19 +106,6 @@ class Arnav:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=arnavdeore25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavdeore25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top languages"/>
-
-<img src="https://streak-stats.demolab.com?user=arnavdeore25&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak"/>
-
-</div>
-
----
-
 ## 🏆 Beyond Code
 
 - 🎓 **Google Student Ambassador** at CHRIST University
