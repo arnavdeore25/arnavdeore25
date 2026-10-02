@@ -64,14 +64,6 @@ Backend for competitive coding modes with score tracking.
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### 🧩 SQLMate · VS Code Extension
-Format, explain, analyze, optimize and visualize SQL queries without leaving the editor.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-> 📌 Link each project to its repo, e.g. `[Travel Planner AI](https://github.com/arnavdeore25/<repo-name>)`, and pin your top 4–6 repos on your profile.
-
 ---
 
 ## 🛠️ Tech Stack
