@@ -1,78 +1,91 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:111827,100:0D1117&height=220&section=header&text=ARNAV%20DEORE&fontSize=52&fontColor=58A6FF&fontAlignY=42&desc=MCA%20%7C%20SOFTWARE%20DEVELOPER%20%7C%20GENAI%20%7C%20SAP&descAlignY=62&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:111827,100:0D1117&height=230&section=header&text=Arnav%20Deore&fontSize=56&fontColor=58A6FF&fontAlignY=40&desc=Software%20Developer%20%7C%20GenAI%20%7C%20SAP&descAlignY=60&descSize=18&descColor=8B949E&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=45&lines=%24+initializing+arnav.dev...;%24+loading+software+engineering+skills...;%24+loading+GenAI+%7C+RAG+%7C+LLMs...;%24+loading+SAP+BTP+%7C+SAP+Build+%7C+ABAP...;%24+system+ready+%3A%3A+let%27s+build+something+useful." alt="Terminal Animation"/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=45&lines=Building+reliable+software+with+AI+inside;RAG+pipelines+%7C+LangChain+%7C+LLMs;SAP+BTP+%7C+SAP+Build+%7C+ABAP;Let%27s+build+something+useful." alt="Typing animation"/>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00D26A?style=flat-square&labelColor=161B22"/>&nbsp;
-<img src="https://img.shields.io/badge/FOCUS-GENAI%20%2B%20SOFTWARE-58A6FF?style=flat-square&labelColor=161B22"/>&nbsp;
-<img src="https://img.shields.io/badge/EXPLORING-SAP%20BTP-F0AB00?style=flat-square&labelColor=161B22"/>&nbsp;
-<img src="https://komarev.com/ghpvc/?username=arnavdeore25&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" alt="Profile Views"/>
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00D26A?style=flat-square&labelColor=161B22"/>
+<img src="https://img.shields.io/badge/FOCUS-GENAI%20%2B%20SOFTWARE-58A6FF?style=flat-square&labelColor=161B22"/>
+<img src="https://img.shields.io/badge/EXPLORING-SAP%20BTP-F0AB00?style=flat-square&labelColor=161B22"/>
+<img src="https://img.shields.io/badge/GOOGLE-STUDENT%20AMBASSADOR-4285F4?style=flat-square&labelColor=161B22"/>
+<img src="https://komarev.com/ghpvc/?username=arnavdeore25&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
 ---
 
-## 👋 Hi, I'm Arnav Deore
+## 👋 About Me
 
-**MCA Student · Software Developer · GenAI & AI Enthusiast**
+MCA student at **CHRIST (Deemed to be) University, Bengaluru**, building practical software across **web, backend, databases, GenAI and RAG**. I like pairing AI with solid engineering so the end product is reliable and actually useful to the people using it.
 
-I'm pursuing my **Master of Computer Applications (MCA)** at **CHRIST (Deemed to be) University, Bengaluru**. I enjoy building practical software solutions across **web development, backend systems, databases, Generative AI, and RAG-based applications** — and I'm especially interested in how AI can be combined with solid software engineering to build reliable, user-focused products.
-
-🔭 **Currently working on:** a RAG-based application exploring LangChain + LLMs
-🌱 **Currently learning:** SAP BTP, ABAP, and cloud fundamentals
-👀 **Open to:** internships / full-time roles in Software Development & GenAI Engineering
-💬 **Ask me about:** Python, Flask, RAG pipelines, or SAP Build
+```python
+class Arnav:
+    role      = "MCA Student · Software Developer"
+    based_in  = "Bengaluru, India"
+    building  = "RAG app with LangChain + LLMs"
+    learning  = ["SAP BTP", "ABAP", "Cloud fundamentals"]
+    open_to   = ["Internships", "Full-time: Software Dev & GenAI Engineering"]
+    ask_me_about = ["Python", "Flask", "RAG pipelines", "SAP Build"]
+```
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 Featured Projects
 
-- 🎓 Pursuing **MCA at CHRIST (Deemed to be) University, Bengaluru**
-- 💻 Interested in **Software Development & Full-Stack Development**
-- 🤖 Exploring **Generative AI, RAG, LLMs & LangChain**
-- 🧠 Building applications with **Python, Flask, REST APIs & AI**
-- 🗄️ Working with **MySQL, MongoDB & Oracle**
-- 🌐 Building web apps with **HTML, CSS, JavaScript, React & Tailwind CSS**
-- ☁️ Exploring **AWS fundamentals & SAP Business Technology Platform (SAP BTP)**
-- ⚙️ Interested in **SAP Build, SAP Build Apps & low-code development**
-- 💼 Exploring **SAP development, ABAP & enterprise applications**
-- 🧩 Strengthening my **Data Structures & Problem-Solving** skills
-- 🚀 Enjoy **hackathons, research competitions & technical events**
-- 📚 Always learning and building something new
+| Project | What it does | Stack |
+|:---|:---|:---|
+| 🧩 **SQLMate** | VS Code extension to format, explain, analyze, optimize and visualize SQL queries | `TypeScript` `VS Code API` |
+| 🔎 **RAG Application** | Question-answering over documents using retrieval + LLMs | `Python` `LangChain` `Flask` |
+| 🌐 **Self Study System** | Front-end study planner built for college | `HTML` `CSS` `JavaScript` |
+
+> 📌 Pin your best 4–6 repos on your profile and link them here, e.g. `[SQLMate](https://github.com/arnavdeore25/<repo-name>)`.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Primary stack**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Web & Backend**
+
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+**AI / GenAI**
+
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge)
+
+**Databases, Cloud & Enterprise**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![SAP BTP](https://img.shields.io/badge/SAP%20BTP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![SAP Build](https://img.shields.io/badge/SAP%20Build-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
-**Also familiar with**
+**Tools**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![SAP Build](https://img.shields.io/badge/SAP%20Build-0FAAFF?style=flat-square&logo=sap&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -80,35 +93,204 @@ I'm pursuing my **Master of Computer Applications (MCA)** at **CHRIST (Deemed to
 
 <div align="center">
 
-| Area | Progress |
-|:---|:---:|
-| 🤖 Generative AI | ![90%](https://img.shields.io/badge/-90%25-8A2BE2?style=flat-square) |
-| 🔎 RAG & LLMs | ![85%](https://img.shields.io/badge/-85%25-58A6FF?style=flat-square) |
-| 🐍 Backend Development | ![80%](https://img.shields.io/badge/-80%25-00D26A?style=flat-square) |
-| 🌐 Full-Stack Web | ![75%](https://img.shields.io/badge/-75%25-FF6B6B?style=flat-square) |
-| 🧠 DSA & Problem Solving | ![75%](https://img.shields.io/badge/-75%25-EC4899?style=flat-square) |
-| ☁️ SAP BTP & SAP Build | ![70%](https://img.shields.io/badge/-70%25-00AEEF?style=flat-square) |
-| ☁️ Cloud Fundamentals | ![65%](https://img.shields.io/badge/-65%25-FF9D3D?style=flat-square) |
+| Area | What I'm doing |
+|:---|:---|
+| 🤖 **Generative AI & RAG** | Retrieval pipelines, prompt design, LangChain + LLMs |
+| 🐍 **Backend** | Python, Flask, REST APIs, database design |
+| 🌐 **Full-Stack Web** | React + Tailwind front ends connected to real APIs |
+| 🧠 **DSA & Problem Solving** | Regular practice to sharpen fundamentals |
+| ☁️ **SAP BTP, SAP Build, ABAP** | Low-code apps and enterprise development |
+| ☁️ **Cloud Fundamentals** | AWS basics and deployment |
 
 </div>
 
 ---
 
-## 📫 Connect With Me
+## 📊 GitHub Stats
 
-I'm always open to collaborating on projects, discussing tech, or just talking **AI, LLMs, software development, and SAP**.
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=arnavdeore25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavdeore25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top languages"/>
+
+<img src="https://streak-stats.demolab.com?user=arnavdeore25&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak"/>
+
+</div>
+
+---
+
+## 🏆 Beyond Code
+
+- 🎓 **Google Student Ambassador** at CHRIST University
+- 🚀 Hackathons, research competitions and technical events
+- 🎪 Campus tech and event projects
+- 📚 Always learning and building something new
+
+---
+
+## 📫 Let's Connect
+
+Open to collaborating on projects and talking **AI, LLMs, software development and SAP**.
 
 <p align="center">
 <a href="https://www.linkedin.com/in/arnav-deore/"><img src="https://img.shields.io/badge/LinkedIn-Arnav%20Deore-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/arnavdeore25"><img src="https://img.shields.io/badge/GitHub-arnavdeore25-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:arnavdeore07@gmail.com"><img src="https://img.shields.io/badge/Email-arnavdeore07%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:arnavdeore07@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&height=40&lines=%24+git+commit+-m+%22keep+learning%22;%24+git+push+origin+main;%24+echo+%22Building.+Learning.+Experimenting.+Repeating.%22" alt="Terminal Footer Animation"/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&height=40&lines=%24+git+commit+-m+%22keep+learning%22;%24+git+push+origin+main;%24+echo+%22Building.+Learning.+Experimenting.+Repeating.%22" alt="Footer animation"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0D1117,50:161B22,100:0D1117&animation=fadeIn" width="100%"/>
+
+</div><div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:111827,100:0D1117&height=230&section=header&text=Arnav%20Deore&fontSize=56&fontColor=58A6FF&fontAlignY=40&desc=Software%20Developer%20%7C%20GenAI%20%7C%20SAP&descAlignY=60&descSize=18&descColor=8B949E&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=45&lines=Building+reliable+software+with+AI+inside;RAG+pipelines+%7C+LangChain+%7C+LLMs;SAP+BTP+%7C+SAP+Build+%7C+ABAP;Let%27s+build+something+useful." alt="Typing animation"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00D26A?style=flat-square&labelColor=161B22"/>
+<img src="https://img.shields.io/badge/FOCUS-GENAI%20%2B%20SOFTWARE-58A6FF?style=flat-square&labelColor=161B22"/>
+<img src="https://img.shields.io/badge/EXPLORING-SAP%20BTP-F0AB00?style=flat-square&labelColor=161B22"/>
+<img src="https://img.shields.io/badge/GOOGLE-STUDENT%20AMBASSADOR-4285F4?style=flat-square&labelColor=161B22"/>
+<img src="https://komarev.com/ghpvc/?username=arnavdeore25&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views"/>
+
+</div>
+
+---
+
+## 👋 About Me
+
+MCA student at **CHRIST (Deemed to be) University, Bengaluru**, building practical software across **web, backend, databases, GenAI and RAG**. I like pairing AI with solid engineering so the end product is reliable and actually useful to the people using it.
+
+```python
+class Arnav:
+    role      = "MCA Student · Software Developer"
+    based_in  = "Bengaluru, India"
+    building  = "RAG app with LangChain + LLMs"
+    learning  = ["SAP BTP", "ABAP", "Cloud fundamentals"]
+    open_to   = ["Internships", "Full-time: Software Dev & GenAI Engineering"]
+    ask_me_about = ["Python", "Flask", "RAG pipelines", "SAP Build"]
+```
+
+---
+
+## 🚀 Featured Projects
+
+| Project | What it does | Stack |
+|:---|:---|:---|
+| 🧩 **SQLMate** | VS Code extension to format, explain, analyze, optimize and visualize SQL queries | `TypeScript` `VS Code API` |
+| 🔎 **RAG Application** | Question-answering over documents using retrieval + LLMs | `Python` `LangChain` `Flask` |
+| 🌐 **Self Study System** | Front-end study planner built for college | `HTML` `CSS` `JavaScript` |
+
+> 📌 Pin your best 4–6 repos on your profile and link them here, e.g. `[SQLMate](https://github.com/arnavdeore25/<repo-name>)`.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Web & Backend**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+**AI / GenAI**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge)
+
+**Databases, Cloud & Enterprise**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![SAP BTP](https://img.shields.io/badge/SAP%20BTP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![SAP Build](https://img.shields.io/badge/SAP%20Build-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🌱 Currently Exploring
+
+<div align="center">
+
+| Area | What I'm doing |
+|:---|:---|
+| 🤖 **Generative AI & RAG** | Retrieval pipelines, prompt design, LangChain + LLMs |
+| 🐍 **Backend** | Python, Flask, REST APIs, database design |
+| 🌐 **Full-Stack Web** | React + Tailwind front ends connected to real APIs |
+| 🧠 **DSA & Problem Solving** | Regular practice to sharpen fundamentals |
+| ☁️ **SAP BTP, SAP Build, ABAP** | Low-code apps and enterprise development |
+| ☁️ **Cloud Fundamentals** | AWS basics and deployment |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=arnavdeore25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavdeore25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top languages"/>
+
+<img src="https://streak-stats.demolab.com?user=arnavdeore25&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak"/>
+
+</div>
+
+---
+
+## 🏆 Beyond Code
+
+- 🎓 **Google Student Ambassador** at CHRIST University
+- 🚀 Hackathons, research competitions and technical events
+- 🎪 Campus tech and event projects
+- 📚 Always learning and building something new
+
+---
+
+## 📫 Let's Connect
+
+Open to collaborating on projects and talking **AI, LLMs, software development and SAP**.
+
+<p align="center">
+<a href="https://www.linkedin.com/in/arnav-deore/"><img src="https://img.shields.io/badge/LinkedIn-Arnav%20Deore-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/arnavdeore25"><img src="https://img.shields.io/badge/GitHub-arnavdeore25-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:arnavdeore07@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&height=40&lines=%24+git+commit+-m+%22keep+learning%22;%24+git+push+origin+main;%24+echo+%22Building.+Learning.+Experimenting.+Repeating.%22" alt="Footer animation"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0D1117,50:161B22,100:0D1117&animation=fadeIn" width="100%"/>
 
