@@ -4,14 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=45&lines=Building+reliable+software+with+AI+inside;RAG+pipelines+%7C+LangChain+%7C+Local+LLMs;Flask+%7C+REST+APIs+%7C+Chrome+Extensions;SAP+BTP+%7C+SAP+Build+%7C+ABAP" alt="Typing animation"/>
 
-<br/>
-
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00D26A?style=flat-square&labelColor=161B22"/>
-<img src="https://img.shields.io/badge/MCA-CHRIST%20UNIVERSITY-1E3A8A?style=flat-square&labelColor=161B22"/>
-<img src="https://img.shields.io/badge/GOOGLE-STUDENT%20AMBASSADOR-4285F4?style=flat-square&labelColor=161B22"/>
-<img src="https://img.shields.io/badge/HACKATHON-FINALIST-F0AB00?style=flat-square&labelColor=161B22"/>
-<img src="https://komarev.com/ghpvc/?username=arnavdeore25&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views"/>
-
 </div>
 
 ---
