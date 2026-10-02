@@ -30,18 +30,6 @@ class Arnav:
     ask_me_about = ["Python", "Flask", "RAG pipelines", "SAP Build"]
 ```
 
----
-
-## 🚀 Featured Projects
-
-| Project | What it does | Stack |
-|:---|:---|:---|
-| 🧩 **SQLMate** | VS Code extension to format, explain, analyze, optimize and visualize SQL queries | `TypeScript` `VS Code API` |
-| 🔎 **RAG Application** | Question-answering over documents using retrieval + LLMs | `Python` `LangChain` `Flask` |
-| 🌐 **Self Study System** | Front-end study planner built for college | `HTML` `CSS` `JavaScript` 
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages**
