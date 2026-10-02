@@ -38,9 +38,7 @@ class Arnav:
 |:---|:---|:---|
 | 🧩 **SQLMate** | VS Code extension to format, explain, analyze, optimize and visualize SQL queries | `TypeScript` `VS Code API` |
 | 🔎 **RAG Application** | Question-answering over documents using retrieval + LLMs | `Python` `LangChain` `Flask` |
-| 🌐 **Self Study System** | Front-end study planner built for college | `HTML` `CSS` `JavaScript` |
-
-> 📌 Pin your best 4–6 repos on your profile and link them here, e.g. `[SQLMate](https://github.com/arnavdeore25/<repo-name>)`.
+| 🌐 **Self Study System** | Front-end study planner built for college | `HTML` `CSS` `JavaScript` 
 
 ---
 
