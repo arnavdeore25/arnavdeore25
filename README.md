@@ -104,27 +104,6 @@ Backend for competitive coding modes with score tracking.
 
 ---
 
-## 🏆 Achievements
-
-- 🥇 **Finalist, Code Cubicle 5.0 Hackathon**: international level, Microsoft Office, Bengaluru
-- 📄 **Research paper published** in the International Journal of Innovative Science and Research Technology (IJISRT)
-- 🎤 **Research paper presented** at a global conference (ETRD 2025)
-- 🏛️ **Kumbh Mela-based prototype** at the Avishkar Zonal Level Research Competition, Savitribai Phule Pune University
-
-## 📜 Certifications & Training
-
-- **Generative AI Mastermind**: Outskill
-- **Applied Database System using Oracle AI Database**: Oracle
-- **Exploring SAP Business Technology Platform**: SAP
-- **VIOSA Training Program**: soft skills and professional development
-
-## 🤝 Leadership
-
-- **Core Committee Member, Labyrinth** (CHRIST University, Jun 2026 – Apr 2027): organising and managing technical events
-- **Core Committee Member, Indradhanushya** (Ashoka Center for Business and Computer Studies, Jan 2024): coordinated the event end to end and managed the Technical Committee
-- **Google Student Ambassador** at CHRIST University
-
----
 
 ## 🎓 Education
 
@@ -132,19 +111,6 @@ Backend for competitive coding modes with score tracking.
 |:---|:---|:---:|
 | **MCA** | CHRIST (Deemed to be University), Bengaluru | 2026 – 2028 |
 | **BBA (Computer Applications)**, CGPA 9.02 | Ashoka Center for Business and Computer Studies, Nashik | 2023 – 2026 |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=arnavdeore25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavdeore25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top languages"/>
-
-<img src="https://streak-stats.demolab.com?user=arnavdeore25&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak"/>
-
-</div>
 
 ---
 
