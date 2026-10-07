@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:111827,100:0D1117&height=230&section=header&text=Arnav%20Deore&fontSize=56&fontColor=58A6FF&fontAlignY=40&desc=Software%20Developer%20%7C%20GenAI%20%7C%20SAP&descAlignY=60&descSize=18&descColor=8B949E&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,45:1F6FEB,100:8A2BE2&height=260&section=header&text=Arnav%20Deore&fontSize=62&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%7C%20GenAI%20Engineer%20%7C%20SAP%20Learner&descAlignY=60&descSize=18&descColor=E6EDF3&animation=twinkling" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=45&lines=Building+reliable+software+with+AI+inside;RAG+pipelines+%7C+LangChain+%7C+Local+LLMs;Flask+%7C+REST+APIs+%7C+Chrome+Extensions;SAP+BTP+%7C+SAP+Build+%7C+ABAP" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00F5A0&center=true&vCenter=true&repeat=true&width=900&height=50&lines=Hi+there%2C+I%27m+Arnav+%F0%9F%91%8B;I+turn+prompts+into+products+%E2%9A%A1;RAG+Pipelines+%E2%80%A2+LangChain+%E2%80%A2+Ollama;Flask+APIs+%E2%80%A2+Chrome+Extensions+%E2%80%A2+MySQL;Learning+SAP+BTP+%E2%80%A2+ABAP+%E2%80%A2+Cloud;Open+to+GenAI+%26+Backend+opportunities+%F0%9F%9A%80" alt="Typing animation"/>
 
 </div>
 
@@ -127,8 +127,8 @@ Open to internships, full-time roles and collaborations in **software developmen
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&height=40&lines=%24+git+commit+-m+%22keep+learning%22;%24+git+push+origin+main;%24+echo+%22Building.+Learning.+Experimenting.+Repeating.%22" alt="Footer animation"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&repeat=true&width=750&height=40&lines=%3E+while+%28alive%29+%7B+build%28%29%3B+learn%28%29%3B+%7D;%3E+git+commit+-m+%22keep+shipping%22;%3E+Let%27s+build+something+great+together" alt="Footer animation"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0D1117,50:161B22,100:0D1117&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=120&section=footer&color=0:8A2BE2,55:1F6FEB,100:0D1117&animation=twinkling" width="100%"/>
 
 </div>
