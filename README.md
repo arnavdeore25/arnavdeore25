@@ -115,43 +115,6 @@ Backend for competitive coding modes with score tracking.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:8A2BE2&height=3" width="100%"/>
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=26&duration=2000&pause=100000&color=1F6FEB&center=true&vCenter=true&repeat=false&width=500&height=45&lines=%F0%9F%93%8A+GitHub+Stats" alt="GitHub Stats"/>
-
-<br/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=arnavdeore25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&border_radius=12" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavdeore25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&border_radius=12" alt="Top languages"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arnavdeore25&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00F5A0&line=1F6FEB&point=8A2BE2" width="100%" alt="Contribution activity graph"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=arnavdeore25&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arnavdeore25/arnavdeore25/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arnavdeore25/arnavdeore25/output/github-snake.svg"/>
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/arnavdeore25/arnavdeore25/output/github-snake.svg" width="100%"/>
-</picture>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:8A2BE2&height=3" width="100%"/>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=26&duration=2000&pause=100000&color=1F6FEB&center=true&vCenter=true&repeat=false&width=500&height=45&lines=%F0%9F%8E%93+Education" alt="Education"/>
-</div>
-
-| Degree | Institution | Years |
-|:---|:---|:---:|
-| **MCA** | CHRIST (Deemed to be University), Bengaluru | 2026 – 2028 |
-| **BBA (Computer Applications)**, CGPA 9.02 | Ashoka Center for Business and Computer Studies, Nashik | 2023 – 2026 |
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:8A2BE2&height=3" width="100%"/>
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=26&duration=2000&pause=100000&color=1F6FEB&center=true&vCenter=true&repeat=false&width=500&height=45&lines=%F0%9F%93%AB+Let%27s+Connect" alt="Let's Connect"/>
