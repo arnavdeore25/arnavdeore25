@@ -4,11 +4,19 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00F5A0&center=true&vCenter=true&repeat=true&width=900&height=50&lines=Hi+there%2C+I%27m+Arnav+%F0%9F%91%8B;I+turn+prompts+into+products+%E2%9A%A1;RAG+Pipelines+%E2%80%A2+LangChain+%E2%80%A2+Ollama;Flask+APIs+%E2%80%A2+Chrome+Extensions+%E2%80%A2+MySQL;Learning+SAP+BTP+%E2%80%A2+ABAP+%E2%80%A2+Cloud;Open+to+GenAI+%26+Backend+opportunities+%F0%9F%9A%80" alt="Typing animation"/>
 
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=arnavdeore25&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="Profile views"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-00F5A0?style=for-the-badge&labelColor=0D1117" alt="Open to work"/>
+<img src="https://img.shields.io/badge/Based%20in-Bengaluru-1F6FEB?style=for-the-badge&labelColor=0D1117" alt="Bengaluru"/>
+
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:8A2BE2&height=3" width="100%"/>
 
-## 👋 About Me
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=26&duration=2000&pause=100000&color=1F6FEB&center=true&vCenter=true&repeat=false&width=500&height=45&lines=%F0%9F%91%8B+About+Me" alt="About Me"/>
+</div>
 
 MCA student at **CHRIST (Deemed to be) University, Bengaluru** (2026–28) with a BBA (Computer Applications) background. I build practical software across **backend systems, databases, GenAI and RAG**, and I like pairing AI with solid engineering so the result is reliable, fast and respects user privacy. I've shipped projects through hackathons, academic work and research, and I'm looking for opportunities to apply these skills to real-world problems.
 
@@ -22,9 +30,11 @@ class Arnav:
     ask_me_about = ["Python", "Flask", "RAG pipelines", "Local LLMs (Ollama)", "SAP Build"]
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:8A2BE2&height=3" width="100%"/>
 
-## 🚀 Featured Projects
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=26&duration=2000&pause=100000&color=1F6FEB&center=true&vCenter=true&repeat=false&width=500&height=45&lines=%F0%9F%9A%80+Featured+Projects" alt="Featured Projects"/>
+</div>
 
 ### 🧳 Travel Planner AI · RAG-based
 Context-aware itinerary generation that returns structured travel plans in **under 5 seconds**.
@@ -56,9 +66,11 @@ Backend for competitive coding modes with score tracking.
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:8A2BE2&height=3" width="100%"/>
 
-## 🛠️ Tech Stack
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=26&duration=2000&pause=100000&color=1F6FEB&center=true&vCenter=true&repeat=false&width=500&height=45&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack" alt="Tech Stack"/>
+</div>
 
 **Languages**
 
@@ -101,19 +113,49 @@ Backend for competitive coding modes with score tracking.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:8A2BE2&height=3" width="100%"/>
 
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=26&duration=2000&pause=100000&color=1F6FEB&center=true&vCenter=true&repeat=false&width=500&height=45&lines=%F0%9F%93%8A+GitHub+Stats" alt="GitHub Stats"/>
 
-## 🎓 Education
+<br/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=arnavdeore25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&border_radius=12" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavdeore25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&border_radius=12" alt="Top languages"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arnavdeore25&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00F5A0&line=1F6FEB&point=8A2BE2" width="100%" alt="Contribution activity graph"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=arnavdeore25&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arnavdeore25/arnavdeore25/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arnavdeore25/arnavdeore25/output/github-snake.svg"/>
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/arnavdeore25/arnavdeore25/output/github-snake.svg" width="100%"/>
+</picture>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:8A2BE2&height=3" width="100%"/>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=26&duration=2000&pause=100000&color=1F6FEB&center=true&vCenter=true&repeat=false&width=500&height=45&lines=%F0%9F%8E%93+Education" alt="Education"/>
+</div>
 
 | Degree | Institution | Years |
 |:---|:---|:---:|
 | **MCA** | CHRIST (Deemed to be University), Bengaluru | 2026 – 2028 |
 | **BBA (Computer Applications)**, CGPA 9.02 | Ashoka Center for Business and Computer Studies, Nashik | 2023 – 2026 |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:8A2BE2&height=3" width="100%"/>
 
-## 📫 Let's Connect
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=26&duration=2000&pause=100000&color=1F6FEB&center=true&vCenter=true&repeat=false&width=500&height=45&lines=%F0%9F%93%AB+Let%27s+Connect" alt="Let's Connect"/>
+</div>
 
 Open to internships, full-time roles and collaborations in **software development and GenAI engineering**. Happy to talk AI, LLMs, backend systems and SAP.
 
@@ -122,8 +164,6 @@ Open to internships, full-time roles and collaborations in **software developmen
 <a href="https://github.com/arnavdeore25"><img src="https://img.shields.io/badge/GitHub-arnavdeore25-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="mailto:arnavdeore07@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-
----
 
 <div align="center">
 
